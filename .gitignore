@@ -1,0 +1,6 @@
+# Ignore Pytorch runtime files
+
+**/cache_dir
+**/runs
+**/outputs
+# **/data
