@@ -1,5 +1,6 @@
 # Ignore Pytorch runtime files
 
+**/.ipynb_checkpoints
 **/cache_dir
 **/runs
 **/outputs
