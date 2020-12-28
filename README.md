@@ -1,4 +1,4 @@
-# stranformers
+# stransformers
 ## Environment setup
 
 Setup pyenv using [this article](https://opensource.com/article/19/6/python-virtual-environments-mac)
